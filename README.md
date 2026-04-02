@@ -90,19 +90,6 @@ Built an interactive dashboard showing:
 
 ---
 
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| [Customer Purchase Behavior.ipynb](Customer%20Purchase%20Behavior.ipynb) | Python EDA & data cleaning notebook |
-| [customer_purchase_behavior_questions.sql](customer_purchase_behavior_questions.sql) | 11 MySQL business queries |
-| [Customer_Purchasing_Behavior.pbix](Customer_Purchasing_Behavior.pbix) | Power BI dashboard file |
-| [Customer_Purchase_Behavior.pdf](Customer_Purchase_Behavior.pdf) | Notebook PDF export |
-| [Customer_Purchasing_Behavior_Project_Summary.pdf](Customer_Purchasing_Behavior_Project_Summary.pdf) | Full project summary |
-| [Problem_Statement.pptx](Problem_Statement.pptx) | Problem statement slides |
-
----
-
 ## 👤 Author
 **Aditya Kumar**  
 Data Analyst | [GitHub](https://github.com/adityak024)
